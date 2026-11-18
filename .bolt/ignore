@@ -1,0 +1,6 @@
+src/lib/data.ts
+src/lib/demo-data.ts
+src/lib/utils.ts
+src/components/ui/**
+src/vite-env.d.ts
+LICENSE
